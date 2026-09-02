@@ -16,18 +16,19 @@ I am open to 100% remote employment and contractor work with teams in Europe and
 
 ## Production evidence
 
+- **[Bright Infinity](https://www.brightinfinitypt.com/):** delivered a live React/TypeScript service-business website with responsive sections, lead capture, SEO metadata and WhatsApp conversion paths
 - **BANQA:** recovered and rebuilt a production Next.js + headless WordPress website and migrated 20 portfolio projects
 - **Book Pipeline:** implemented automated integrity QA with 4,322 / 4,322 content fragments verified
 - **AstroNexo:** built validation, deduplication, caching, quotas, retries and scheduled execution into a multilingual automation system
 
 ## Selected work
 
+- [Bright Infinity](https://github.com/orliker/cleanb) - live React/TypeScript website for a service business operating in Portugal and Angola
 - [AstroNexo](https://github.com/orliker/astronexo) - multilingual B2B automation engine with validation, quotas and scheduled execution
 - [AstroNexo Studio](https://github.com/orliker/astronexo-studio) - production-focused studio website built with TypeScript
 - [Book Pipeline](https://github.com/orliker/book-pipeline) - automated print-ready typesetting with integrity QA
 - [Green / GreenFood](https://github.com/orliker/green) - Kotlin/Compose application plus a FastAPI price-comparison backend
 - [Nexos OS](https://github.com/orliker/nexos-os) - Tauri, React and Groq desktop assistant with local SQLite storage
-- [AI Portfolio](https://github.com/orliker/portfolio-ia) - compact portfolio of AI and automation work
 
 ## Languages
 
