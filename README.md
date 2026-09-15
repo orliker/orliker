@@ -1,39 +1,38 @@
 # Alexander Ruiz
 
-### Remote Web Automation · Junior QA · Technical Support
+### Web Development · Automation · Technical Support
 
-Portugal-based developer focused on practical, testable systems. I combine web development, browser automation, AI-output quality controls and hands-on production support.
+I build practical web applications, automate repetitive workflows and investigate technical problems. Based in **Portugal**, available for **fully remote employment and freelance projects**.
 
-I am open to 100% remote employment and contractor work with teams in Europe and internationally.
+My work combines implementation, reproducible tests, documentation and customer-facing experience. I use AI-assisted development with code review and verification.
 
-## What I can help with
+## Selected engineering work
 
-- AI-assisted automations with validators, guardrails, deduplication and failure-safe workflows
-- Production web applications with Next.js, React, TypeScript, Python and FastAPI
-- Headless WordPress websites and content migrations
-- Browser automation and QA with Playwright and Puppeteer
-- Document-production pipelines with deterministic integrity checks
+| Project | What to review | Evidence and scope |
+| --- | --- | --- |
+| **[Astro Commerce Core](https://github.com/orliker/astro-commerce-core)** | TypeScript domain packages: order transitions, pricing, cashflow, SQLite and runtime safeguards | 23 tests passing + TypeScript check. Offline extraction; no live payments or customer data. |
+| **[Book Pipeline](https://github.com/orliker/book-pipeline)** | Document production and deterministic content-integrity QA | Documented reference manuscript check: 4,322 / 4,322 fragments verified. |
+| **[Astro Calendar Core](https://github.com/orliker/astro-calendar-core)** | Spanish/Portuguese date rules, timezone conversion and fixed-clock regression tests | 16 tests passing + TypeScript check. Focused library extraction, not the full application. |
 
-## Production evidence
+The Core repository tests were verified locally on 15 September 2026 with Node.js 24.18.0. Each README explains how to reproduce them and the sample's limitations.
 
-- **[Bright Infinity](https://www.brightinfinitypt.com/):** delivered a live React/TypeScript service-business website with responsive sections, lead capture, SEO metadata and WhatsApp conversion paths
-- **BANQA:** recovered and rebuilt a production Next.js + headless WordPress website and migrated 20 portfolio projects
-- **Book Pipeline:** implemented automated integrity QA with 4,322 / 4,322 content fragments verified
-- **AstroNexo:** built validation, deduplication, caching, quotas, retries and scheduled execution into a multilingual automation system
+## Client delivery
 
-## Selected work
+**[BANQA](https://banqa.es)** — Next.js with headless WordPress: code recovery, website rebuild and migration of 20 portfolio projects. Client delivery is presented separately from public code samples.
 
-- [Bright Infinity](https://github.com/orliker/cleanb) - live React/TypeScript website for a service business operating in Portugal and Angola
-- [AstroNexo](https://github.com/orliker/astronexo) - multilingual B2B automation engine with validation, quotas and scheduled execution
-- [AstroNexo Studio](https://github.com/orliker/astronexo-studio) - production-focused studio website built with TypeScript
-- [Book Pipeline](https://github.com/orliker/book-pipeline) - automated print-ready typesetting with integrity QA
-- [Green / GreenFood](https://github.com/orliker/green) - Kotlin/Compose application plus a FastAPI price-comparison backend
-- [Nexos OS](https://github.com/orliker/nexos-os) - Tauri, React and Groq desktop assistant with local SQLite storage
+## How I can help
 
-## Languages
+- Develop and maintain websites with React, Next.js, TypeScript and WordPress.
+- Automate workflows and integrate APIs with Python, Node.js and browser automation.
+- Reproduce bugs, build regression tests and document technical findings.
+- Support Spanish- and Portuguese-speaking customers, investigate incidents and communicate clear next steps.
 
-- Spanish - native
-- Portuguese - C2
-- English - B1 intermediate
+**Tools:** Python · FastAPI · TypeScript · JavaScript · React · Next.js · WordPress · Node.js · SQL · Playwright · Puppeteer · Git
 
-[Portfolio](https://astronexo.com) | [LinkedIn](https://www.linkedin.com/in/alexander-ruiz-7a64b8288/) | [Email](mailto:orlaikerpo@gmail.com)
+## Languages & availability
+
+Spanish: native · Portuguese: C2 · English: B1 intermediate.
+
+Open to fully remote roles and project-based collaboration from Portugal.
+
+[LinkedIn](https://www.linkedin.com/in/alexander-ruiz-7a64b8288/) · [Professional contact](mailto:orlaikerpo@gmail.com)
