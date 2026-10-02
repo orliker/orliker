@@ -1,6 +1,6 @@
 # Alexander Ruiz
 
-### Web Development · Automation · Technical Support
+### Full-Stack Web Development · API Integrations · Automation
 
 I build practical web applications, automate repetitive workflows and investigate technical problems. Based in **Portugal**, available for **fully remote employment and freelance projects**.
 
@@ -31,8 +31,9 @@ The Core repository tests were verified locally on 15 September 2026 with Node.j
 
 ## Languages & availability
 
-Spanish: native · Portuguese: C2 · English: B1 intermediate.
+Spanish: native · Portuguese: fluent · English: intermediate (self-assessed).
 
 Open to fully remote roles and project-based collaboration from Portugal.
 
 [LinkedIn](https://www.linkedin.com/in/alexander-ruiz-7a64b8288/) · [Professional contact](mailto:orlaikerpo@gmail.com)
+
